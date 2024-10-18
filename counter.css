@@ -1,0 +1,47 @@
+#myDecrease{
+    background-color: red;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 40%;
+    border-width: 0cm;
+}
+#myDecrease:hover{
+    background-color: rgb(190, 14, 14);
+    color: white;
+    cursor: pointer;
+}
+
+/* For zero */
+
+#myZero{
+    background-color: rgb(0, 51, 255);
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 10px;
+    border-width: 0cm;
+}
+#myZero:hover{
+    background-color: rgb(59, 36, 149);
+    color: white;
+    cursor: pointer;
+}
+/* For increase */
+#myIncrease{
+    background-color: rgb(65, 157, 12);
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 10px;
+    border-width: 0cm;
+}
+#myIncrease:hover{
+    background-color: rgb(25, 225, 22);
+    color: white;
+    cursor: pointer;
+}
+
+#myH1{
+    margin-left: 50%;
+}
